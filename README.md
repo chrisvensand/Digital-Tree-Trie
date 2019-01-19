@@ -1,6 +1,7 @@
 # Digital-Tree-Trie-Implementation
 
-Problem description: Find the shortest unique prefix to represent each word in a list.
+Problem description:
+> Find the shortest unique prefix to represent each word in a list. Assume that no word is prefix of another. In other words, the representation is always possible.
 
 Example:
 ```
