@@ -1,2 +1,14 @@
 # Digital-Tree-Trie-Implementation
-Implementation of the Trie data structure to find the shortest prefixes of a list of words.
+
+Problem description: Find the shortest unique prefix to represent each word in a list.
+
+Example:
+'''
+Input: [zebra, dog, duck, dove]
+Output: {z, dog, du, dov}
+where we can see that
+zebra = z
+dog = dog
+duck = du
+dove = dov
+'''
