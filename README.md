@@ -1,4 +1,4 @@
-# Digital Tree Trie Implementation
+# Digital Tree Implementation
 This is my first attempt at implementing a digital tree also known as a trie. The program will create a trie from a list of words and output the shortest unique prefix to represent each word. 
 
 Problem description:
