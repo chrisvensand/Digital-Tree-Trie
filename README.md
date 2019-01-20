@@ -16,4 +16,4 @@ duck = du
 dove = dov
 ```
 
-![example](example.png)
+![example](example.jpg)
