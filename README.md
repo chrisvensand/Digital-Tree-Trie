@@ -16,4 +16,7 @@ duck = du
 dove = dov
 ```
 
-![example](example.jpg)
+Trie graph representation:
+<p align="center">
+  <img width="460" height="300" src="example.jpg">
+</p>
