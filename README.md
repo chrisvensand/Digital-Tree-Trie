@@ -16,7 +16,7 @@ duck = du
 dove = dov
 ```
 
-Trie graph representation:
+Trie graph:
 <p align="center">
   <img src="example.jpg">
 </p>
