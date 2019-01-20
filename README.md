@@ -18,5 +18,5 @@ dove = dov
 
 Trie graph representation:
 <p align="center">
-  <img width="460" height="300" src="example.jpg">
+  <img src="example.jpg">
 </p>
